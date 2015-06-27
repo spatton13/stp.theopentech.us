@@ -1,0 +1,7 @@
+{
+  "name": "stp",
+  "version": "0.0.1",
+  "dependencies": {
+    "tipso": "^1.0.5"
+  }
+}
